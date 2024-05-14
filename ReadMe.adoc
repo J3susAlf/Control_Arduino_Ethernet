@@ -1,5 +1,5 @@
-:Author: ProfeGarcia
-:Email: el_profe_garcia@hotmail.com
+:Author: Alfredo
+:Email: al067606uacam.mx
 :Date: 06/06/2018
 :Revision: version#
 :License: Public Domain

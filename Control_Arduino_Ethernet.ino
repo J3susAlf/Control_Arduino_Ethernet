@@ -4,8 +4,8 @@
 
 
 byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };   //Direccion Fisica MAC
-byte ip[] = { 192, 168, 0, 150 };                       // IP Local que usted debe configurar 
-byte gateway[] = { 192, 168, 0, 10 };                   // Puerta de enlace
+byte ip[] = { 172, 20, 10, 10  };                       // IP Local que usted debe configurar 
+byte gateway[] = { 172, 20, 10, 3 };                   // Puerta de enlace
 byte subnet[] = { 255, 255, 255, 0 };                  //Mascara de Sub Red
 EthernetServer server(80);                             //Se usa el puerto 80 del servidor     
 String readString;
