@@ -39,7 +39,7 @@ Upload the code contained in this sketch on to your board
 This project is released under a {License} License.
 
 === Contributing
-To contribute to this project please contact ProfeGarcia <el_profe_garcia@hotmail.com>
+To contribute to this project please contact <>
 
 === BOM
 Add the bill of the materials you need for this project.
